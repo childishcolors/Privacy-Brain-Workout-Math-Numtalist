@@ -2,13 +2,13 @@ Privacy Policy
 Numtalist: Mental Math Trainer
 
 1. Introduction
-Welcome to Brain Workout Math ("the App", "we", "us", or "our"). We are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights in relation to it.
+Welcome to Numtalist: Mental Math Trainer ("the App", "we", "us", or "our"). We are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights in relation to it.
 
 By using Numtalist: Mental Math Trainer, you agree to the practices described in this policy.
 
 2. Information We Collect
 2.1 Information Stored Locally on Your Device
-Brain Workout Math stores your progress data locally on your device only. This includes:
+Numtalist: Mental Math Trainer stores your progress data locally on your device only. This includes:
 
 XP points, level, and streak counts
 Daily goals and daily practice counts
