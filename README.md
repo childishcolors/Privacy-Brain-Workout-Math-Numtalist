@@ -53,4 +53,4 @@ You may access, correct, or delete your data at any time. Since no personal data
 We will update the "Last updated" date when changes are made. Continued use of the App constitutes acceptance of the updated policy.
 
 11. Contact Us
-Brain Workout Math Email: childishcolors@gmai.com
+Brain Workout Math Email: childishcolors@gmail.com
