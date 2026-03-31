@@ -1,5 +1,5 @@
 Privacy Policy
-Brain Workout Math Last updated: March 31, 2026
+Brain Workout Math: Numtalist
 
 1. Introduction
 Welcome to Brain Workout Math ("the App", "we", "us", or "our"). We are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights in relation to it.
