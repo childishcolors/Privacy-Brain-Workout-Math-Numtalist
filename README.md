@@ -1,10 +1,10 @@
 Privacy Policy
-Brain Workout Math: Numtalist
+Numtalist: Mental Math Trainer
 
 1. Introduction
 Welcome to Brain Workout Math ("the App", "we", "us", or "our"). We are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights in relation to it.
 
-By using Brain Workout Math: Numtalist, you agree to the practices described in this policy.
+By using Numtalist: Mental Math Trainer, you agree to the practices described in this policy.
 
 2. Information We Collect
 2.1 Information Stored Locally on Your Device
@@ -53,4 +53,4 @@ You may access, correct, or delete your data at any time. Since no personal data
 We will update the "Last updated" date when changes are made. Continued use of the App constitutes acceptance of the updated policy.
 
 11. Contact Us
-Brain Workout Math Email: childishcolors@gmail.com
+Numtalist: Mental Math Trainer Email: childishcolors@gmail.com
